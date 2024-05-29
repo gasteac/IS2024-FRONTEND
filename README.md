@@ -1,7 +1,7 @@
 ## IS 2024 - DracoSnape
 ![mainPage](https://github.com/gasteac/IS-2024-CI-CD/blob/main/frontend/public/images/pic.jpg?raw=true)
 
-#### Check it out here: [https://dracosnape.up.railway.app/](https://dracosnape.up.railway.app/)
+#### Check it out here: [https://is-2024-frontend.vercel.app/](https://is-2024-frontend.vercel.app/)
 ### This project was made with:
  - React + Vite
  - Redux
@@ -14,21 +14,5 @@
  - DaisyUI
  - JWT
 
-To test it out, clone the repository
-```
-git clone https://github.com/gasteac/IS-2024-CI-CD
-cd IS-2024-CI-CD
-```
-Install the project dependencies for the API, then run it:
-```
-cd backend
-npm install
-npm run dev
-```
-Next, install the dependencies for the client, then run it:
-```
-cd frontend
-npm install
-npm run dev
-```
-Open [ http://localhost:5173](http://localhost:5173) in your browser to view the project.
+### Backend is hosted in Koyeb: [https://www.koyeb.com/](https://www.koyeb.com/)
+### Frontend is hosted in Vercel: [https://vercel.com/](https://vercel.com/)
