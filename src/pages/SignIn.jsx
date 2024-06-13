@@ -14,9 +14,9 @@ export const SignIn = () => {
       password: "",
     },
     validationSchema: Yup.object({
-      email: Yup.string().required("Required!"),
+      email: Yup.string(),
       password: Yup.string()
-        .required("Required!")
+        
         .min(6, "Must be 6 characters or more"),
     }),
     onSubmit: async ({ email, password }) => {
