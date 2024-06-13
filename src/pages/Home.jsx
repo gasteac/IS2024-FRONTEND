@@ -17,7 +17,6 @@ export const Home = () => {
   return (
     <div className="flex items-center flex-col justify-center h-screen w-screen">
       <div className="absolute bottom-5 right-5"><img src="https://sonarcloud.io/api/project_badges/quality_gate?project=gasteac_IS2024-BACKEND" alt="sonarcloud" /></div>
-
       <h1 className="text-5xl">
         Welcome{" "}
         <span className="text-emerald-600 font-semibold">
