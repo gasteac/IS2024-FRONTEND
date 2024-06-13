@@ -54,6 +54,8 @@ export const SignUp = () => {
 
   return (
     <div className="flex flex-col w-screen h-screen items-center justify-center">
+      <div className="absolute bottom-5 right-5"><img src="https://sonarcloud.io/api/project_badges/quality_gate?project=gasteac_IS2024-BACKEND" alt="sonarcloud" /></div>
+
       <h1 className="text-5xl font-semibold mb-5">SIGN UP</h1>
       <form
         className="flex flex-col gap-4 max-w-80"
